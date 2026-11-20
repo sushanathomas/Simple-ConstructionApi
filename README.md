@@ -15,7 +15,7 @@ GitHub: https://sushanathomas.github.io/Simple-ConstructionApi/
 - Requests up to 10 matching permits.
 - Displays the address, permit number, class, status, description,
   and issue date.
-- Clears previous results when a new search is performedwd.
+- Clears previous results when a new search is performed.
 
 ## Built With
 

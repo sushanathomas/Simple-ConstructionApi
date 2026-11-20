@@ -3,6 +3,10 @@
 A web app that searches Seattle building permits by ZIP code using
 the City of Seattle’s public data API.
 
+## Project Preview & Site link
+
+GitHub: https://sushanathomas.github.io/Simple-ConstructionApi/
+
 <img width="430" height="267" alt="Construction API" src="https://github.com/user-attachments/assets/834c8b0e-01dd-4563-9649-03279e38ef94" />
 
 ## Features
@@ -11,7 +15,7 @@ the City of Seattle’s public data API.
 - Requests up to 10 matching permits.
 - Displays the address, permit number, class, status, description,
   and issue date.
-- Clears previous results when a new search returns.
+- Clears previous results when a new search is performedwd.
 
 ## Built With
 
@@ -62,5 +66,4 @@ and adds their details to the results section.
 - Filtering API results using query parameters.
 
 ## Author
-
 Sushana Thomas
